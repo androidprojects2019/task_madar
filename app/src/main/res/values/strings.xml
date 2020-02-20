@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="user_name">User Name</string>
+    <string name="age">Age</string>
+    <string name="job_title">Job title</string>
+    <string name="gender">Gender</string>
+    <string name="save">Save</string>
+    <string name="dataError">Please fill all fields</string>
+    <string name="ok">Ok</string>
+    <string name="data_added_succesfully">Data added succesfully</string>
+    <string name="fixErrors">Please add the right type of every field</string>
+    <string name="results">Results</string>
+    <string name="there_is_no_data_to_show">There is no data to show</string>
+    <string name="there_is_error_please_try_again">There is error please try again</string>
+</resources>
